@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy3-Qm90pcM2Rww7dCrsXhijzp8he3olsJtQ&s&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/>
 <br/>
 
 ### Framework
