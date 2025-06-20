@@ -3,7 +3,7 @@
 
 
 <div>
-    ## 🤔 Github Stats
+
     ## 🧱 Tech Stack
     ### Language
     <br>
@@ -11,7 +11,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Python&logoColor=white"/>
-
+<br>
+    
   ## 🤔 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonseeee)](https://github.com/anuraghazra/github-readme-stats)
 <br>
