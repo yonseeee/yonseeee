@@ -4,7 +4,7 @@
 
 <div>
 
-## Tech Stack
+## 🧱 Tech Stack
 
 ### Language
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Python&logoColor=white"/>
@@ -21,7 +21,7 @@
 ## DB
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Python&logoColor=white"/>
 
-<br>
+<br/>
     
   ## 🤔 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonseeee)](https://github.com/anuraghazra/github-readme-stats)
